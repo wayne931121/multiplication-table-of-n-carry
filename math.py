@@ -113,8 +113,6 @@ def mprint():
 
 symbols = ["1","2","3","4","5","6","7","8","9","┴","┬","┤","├","┌","┐","└","┘"]
 define_ = [["0",""],["j","1"]]
-size = ""
 for i in symbols:
-    size += "1"
     define_ = cremi(define_,i)
     mprint()
