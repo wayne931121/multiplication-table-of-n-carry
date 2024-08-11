@@ -209,3 +209,10 @@
 1 × 8 =  8  2 × 8 = 16  3 × 8 = 24  4 × 8 = 32  5 × 8 = 40  6 × 8 = 48  7 × 8 = 56  8 × 8 = 64  9 × 8 = 72
 1 × 9 =  9  2 × 9 = 18  3 × 9 = 27  4 × 9 = 36  5 × 9 = 45  6 × 9 = 54  7 × 9 = 63  8 × 9 = 72  9 × 9 = 81
 ```
+(We can find that the multiplication table has a characteristic. Let’s take the decimal table as an example. First of all, their single digits are symmetrical. As can be seen from the figure below, columns A and I are 123456789 and 987654321 respectively, while columns B and H are respectively They are 246802468 and 864208642, which means they are the same when viewed upside down. The same is true for other columns, which are CG: 369258147, DF: 482604826 and E: 505050505.
+
+ Also this multiplication table has a special feature. In x carries, if x divided by 2 can be divided evenly and then get n (X is a decimal), then in x carry, if the units digit of a number is n or 0, it means that the number is a multiple of n. 
+
+In terms of decimal, 10÷2= 5, then the numbers 25 and 30 are multiples of 5 because the units digit are 0 or 5.
+
+In terms of 6 carry,  6÷2=3, then 23 and 50 are multiples of 3 because the units digit are 0 or 3.)
