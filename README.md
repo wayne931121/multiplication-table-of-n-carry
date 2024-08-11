@@ -216,3 +216,13 @@
 In terms of decimal, 10÷2= 5, then the numbers 25 and 30 are multiples of 5 because the units digit are 0 or 5.
 
 In terms of 6 carry,  6÷2=3, then 23 and 50 are multiples of 3 because the units digit are 0 or 3.)
+
+你可以修改math.py的第114行更改數字所使用的符號，並增加或減少進位
+```
+symbols = ["1","2","3","4","5","6","7","8","9","┴","┬","┤","├","┌","┐","└","┘"]
+```
+
+並且執行
+```cmd
+python math.py
+```
